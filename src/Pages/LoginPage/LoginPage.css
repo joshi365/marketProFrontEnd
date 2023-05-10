@@ -1,0 +1,25 @@
+.loginPageMainContainer {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    background-image: url("../../Assets/stockImage.jpg");
+    background-size:cover
+}
+
+.formContainer {
+    width: 30%;
+    margin: auto;
+    margin-top: auto;
+}
+
+.headertext{
+    color: white;
+    font-family: 'Dancing Script', cursive;
+	font-size: 80px;
+	margin-bottom: 30px;
+}
+
+.buttonClass{
+    border-radius: 25px;
+    height: 6vh;
+}
